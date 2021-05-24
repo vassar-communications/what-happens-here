@@ -1,0 +1,51 @@
+.u-NavSite{@incude visible();display:block !important;visibility:visible !important}td,b{font-weight:300 !important}.u-lContent{font-size:1.4em;font-weight:300;line-height:1.4}.u-Masthead__siteName{max-width:none;margin:0 auto}.u-Masthead__subhead{text-align:center}.u-Masthead__siteName{padding:0;line-height:1}@media all and (min-width: 56.25em){.u-NavSite__itemContainer{padding:0 0 .65em}.u-NavSite__level--1 .u-NavSite__item--isCurrent{font:600 1.1em/1.1 "acumin-pro","Arial","Helvetica"}}@media (min-width: 56.25em){.u-Masthead__subhead{font-size:.27em}.u-Masthead__siteName{font-size:4em}}@media all and (min-width: 73.75em){.u-Masthead__siteName{font-size:7em}}.u-pageHome .u-pageTitle{display:none;visibility:hidden}@media screen{.u-lHeader{margin:4em 15% .5em !important;padding:0 0 2.5em !important;border-bottom:1px solid #dcd8d7}.u-Masthead__siteName{display:block}.u-pageHome .u-NavSite{margin:2.5em 0 5.5em}.u-lMain,.u-lAside{padding:0;width:100%}.u-lContent{padding:0 5%;width:100%}.u-Video{margin-top:0}}@media all and (min-width: 56.25em){.u-lMain{margin:0;padding:0 15% 5em 1.5em;width:65%}.u-NavSite{width:35%;padding:0 1.5em 0 15%;margin:6.5em 0;border-right:1px solid #dcd8d7}}@media (min-width: 56.25em){.u-lMain{float:right;padding:0 15% 5em 1.5em !important}.u-lAside,.u-lContent{padding:0;width:100%}}h1 a:link,h2 a:link,h3 a:link,h4 a:link,h5 a:link,h6 a:link,.u-NavSite__item:link,.u-Masthead__siteName--link:link,.Module__headerLink:link,.Module--sidebar a:link,a.fn.org.url.u-VCard__fn.u-VCard__item.u-VCard__org.u-VCard__url,a.fn.org.url.u-VCard__fn.u-VCard__item.u-VCard__org.u-VCard__url:link,.u-ArticleNavGroup__navButton:link,.u-ArticleListItem__link:link,.SocialAccount__iconTarget:link{border-bottom:none}@media screen{.Module--mainContent{overflow:hidden}.u-ArticleGroup{margin:4%}}@media all and (min-width: 56.25em){.u-ArticleGroup{margin:4%}}@media all and (min-width: 58.75em){.u-ArticleGroup{margin:4% auto;max-width:50em}}@media screen and (min-width: 62.5em){.u-lMain{padding:0}}.u-lHeader,.u-lMain{margin:2em auto}.u-lHeader{background:none;padding:0 0 1.5em !important;margin-top:4em}.u-Masthead{padding-bottom:1em}.u-Masthead__siteName--link{-webkit-transition:color ease 0.4s;transition:color ease 0.4s}.u-Masthead__siteName--link:visited,.u-Masthead__siteName--link:link{color:#861f41;border:none}.u-Masthead__siteName--link:hover,.u-Masthead__siteName--link:visited:hover{color:#c1b5b0}.u-BreadCrumbs{display:block !important;visibility:visible !important}.u-pageTitle{font-size:4em;text-transform:uppercase;line-height:0.86;margin:0.4em 0 0.7em 0}@media screen and (min-width: 50em){.u-pageTitle{font-size:5em}}.modulesArea{overflow:hidden}.Module:not(.standardList) .Module__subList li{list-style-type:square;margin-left:1.4em;margin-bottom:0 !important;padding-bottom:0}.Module--mainContent{margin-bottom:2em !important}@media (min-width: 45em){.modulesArea__row .Module__header{margin-top:0}}.Module--halfWidth{margin:0}.Module__listItem{padding-bottom:0;margin-bottom:0.5em}.Module__header{font-family:"acumin-pro", "Arial", "Helvetica";text-transform:none;letter-spacing:0;font-size:1.2em;font-weight:bold !important;margin-top:2em;margin-bottom:1em}h4,.Module__list>.Module__listItem>.Module__linktext{font-family:"acumin-pro", "Arial", "Helvetica";text-transform:uppercase;font-weight:bold !important;margin:1.4em 0 0.2em 0 !important;display:block;font-size:0.9em;letter-spacing:0.04em}.intro{font-size:1.3em;font-weight:300}@media screen and (min-width: 50em){.cols .Module__list{display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}}@media screen and (min-width: 45em){.cols--2{-webkit-column-count:2;-moz-column-count:2;column-count:2;-webkit-column-gap:1em;-moz-column-gap:1em;column-gap:1em}}@media (min-width: 45em){.Module--halfWidth{float:left !important;width:49% !important}}.u-folderDepartments .Module__link[href*="//independentprogram.vassar.edu"] .Module__linktext{font-family:"acumin-pro", "Arial", "Helvetica";text-transform:uppercase;font-weight:bold !important;margin:1.4em 0 0.2em 0 !important;display:block;font-size:0.9em;letter-spacing:0.04em}.u-folderDepartments .Module__link[href*="//independentprogram.vassar.edu"] .Module__linktext{border-bottom:1px solid #882344;color:#882344;display:inline-block;-webkit-transition:all ease 0.4s;transition:all ease 0.4s}.u-folderDepartments .Module__link[href*="//independentprogram.vassar.edu"] .Module__linktext:hover,.u-folderDepartments .Module__link[href*="//independentprogram.vassar.edu"] .Module__linktext:visited:hover{color:#c1b5b0;border-color:#c1b5b0}.vassar_plaid,.Module__fullWidthMission{background-size:cover;background:#ebe9e8 url(../../../assets/images/about-mission-bg.png) repeat}.vassar_stars,.Module__fullWidthDiversity{background:linear-gradient(324deg, #f8f7f7 4%, transparent 4%) -70px 43px,linear-gradient(36deg, #f8f7f7 4%, transparent 4%) 30px 43px,linear-gradient(72deg, #fff 8.5%, transparent 8.5%) 30px 43px,linear-gradient(288deg, #fff 8.5%, transparent 8.5%) -70px 43px,linear-gradient(216deg, #fff 7.5%, transparent 7.5%) -70px 23px,linear-gradient(144deg, #fff 7.5%, transparent 7.5%) 30px 23px,linear-gradient(324deg, #f8f7f7 4%, transparent 4%) -20px 93px,linear-gradient(36deg, #f8f7f7 4%, transparent 4%) 80px 93px,linear-gradient(72deg, #fff 8.5%, transparent 8.5%) 80px 93px,linear-gradient(288deg, #fff 8.5%, transparent 8.5%) -20px 93px,linear-gradient(216deg, #fff 7.5%, transparent 7.5%) -20px 73px,linear-gradient(144deg, #fff 7.5%, transparent 7.5%) 80px 73px;background-color:#f8f7f7;background-size:100px 100px}.Module__fullWidthFacts .Module__subList{text-align:center}.Module__fullWidthFacts .Module__subList .Module__title{font-size:1.5em;font-weight:600;padding-bottom:0.5em}.Module__fullWidthFacts .Module__subList .Module__desc{font-size:1.5em;font-weight:600}.pie .Module__header{text-align:center;font-size:1.5em;font-weight:600;padding-bottom:0;margin-bottom:0;text-transform:uppercase;color:#aca3a0}.Module__fullWidthTrustees .Module__desc ul li strong{font-weight:600}.Module__fullWidthDiversity ul{margin-top:.5em;text-align:center}.Module__fullWidthDiversity ul li{display:inline-block}.Module__fullWidthDiversity ul li:after{content:"|";margin-left:.5em}.Module__fullWidthDiversity ul li:last-child:after{content:""}@media screen{.Module__fullWidthHistory .Module__desc{padding-bottom:50%}.Module__fullWidthFacts .Module__subList{display:flex;flex-wrap:wrap}.Module__fullWidthFacts .Module__subList .Module__listItem{flex-grow:1;padding:0 2%}.Module__fullWidthFacts .Module__listItem{text-align:center}.Module__fullWidthTrustees .Module__desc ul{padding:0 4%;text-align:center}}@media all and (min-width: 56.25em){.Module__fullWidthTrustees .Module__desc ul{column-count:2;column-gap:1em;max-width:80em;margin-left:auto;margin-right:auto;text-align:left}}.Module__fullWidthFacts .Module__subList .Module__title{border-bottom:.2em solid #e3e0df;color:#aca3a0}.Module__fullWidthFacts .Module__subList .Module__desc{color:#882344}.Module__fullWidthHistory{background:#675a46 url(../../../assets/images/about-history-bg.jpg) no-repeat center center;background-size:cover;color:#fff}
+
+
+@media (min-width: 73.75em) {
+.u-Masthead__siteName {
+    font-size: 6em;
+}
+}
+
+
+@media (min-width: 54.375em) {
+.u-NavSite__item {
+    color: #882344;
+}
+.u-NavSite__item:visited {
+    color: #882344;
+}
+.u-NavSite {
+    width: 30%;
+
+}
+.u-lMain {
+
+    width: 69%;
+
+}
+.u-NavSite {
+    margin: 2.5em 0 5.5em;
+}
+
+
+}
+
+h3 {
+    font-size: 1.5em;
+
+}
+h4  {
+
+    font-size: 0.98em;
+margin-bottom: .5em !important;
+}
+
+
+
+.u-pageTitle {
+    display: block;
+    visibility: visible;
+    font-size: 2.3em;
+    margin: 0 0 1em 0;
+}
